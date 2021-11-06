@@ -5,5 +5,10 @@
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
+    color: #FFFFFF;
 
+}
+
+.place__url-address:hover {
+    opacity: .8;
 }
